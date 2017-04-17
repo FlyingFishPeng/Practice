@@ -8,10 +8,6 @@
 实例唯一性。
 */
 
-
-
-
-
 #include <iostream>
 using namespace std;
 
